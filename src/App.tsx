@@ -278,8 +278,8 @@ export default function App() {
                 {/* Main Beautiful Food Collage Card */}
                 <div className="bg-white p-4 rounded-3xl shadow-2xl border border-slate-100 relative overflow-hidden">
                   <img 
-                    src="https://images.unsplash.com/photo-1527018601619-a508a2be00cd?auto=format&fit=crop&q=80&w=600"
-                    alt="Fresh Dairy Farms Milk"
+                    src="https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&q=80&w=600"
+                    alt="Fresh Dairy Products and Milk"
                     referrerPolicy="no-referrer"
                     className="w-full h-64 object-cover rounded-2xl mb-4 shadow-inner"
                   />
